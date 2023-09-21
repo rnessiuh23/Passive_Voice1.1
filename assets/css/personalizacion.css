@@ -1,0 +1,27 @@
+#boton_Login{
+    background: linear-gradient(45deg, #3b82f6, #0284c7, #1e3a8a);
+    color: white;
+}
+
+#registroUsu{
+    color: #0ea5e9;
+}
+
+#registroUsu:hover{
+    color: #2563eb;
+}
+
+.forgot{
+    color: #db2777;
+}
+
+#form_Login label{
+    color: #0ea5e9;
+}
+
+#welcome{
+    background: linear-gradient(45deg, #0ea5e9, #1e40af);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
