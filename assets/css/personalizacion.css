@@ -19,9 +19,32 @@
     color: #0ea5e9;
 }
 
+#form_Login{
+  margin-top: 6em;
+}
+
 #welcome{
     background: linear-gradient(45deg, #0ea5e9, #1e40af);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
 }
+
+#footer > a{
+    color: #a1a1aa;
+  }
+  
+#footer > p{
+    color: #a1a1aa;
+  }
+
+  .mt-custom{
+    margin-top: 4em;
+  }
+
+  #form_Login {
+    display: grid;
+    align-self: center;
+  }
+  
+  

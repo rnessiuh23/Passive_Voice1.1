@@ -44,9 +44,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             <img src="./assets/img/Logo.png" alt="Login image"  class="img-fluid">
           </div>
 
-      <div class="col-12 col-md-6 d-flex align-items-center">
+      <div class="col-12 col-md-6 d-flex justify-content-center align-items-center vh-100">
 
-          <form id="form_Login" class="mt-10" role="form" method="POST">
+          <form id="form_Login" role="form" method="POST">
 
             <h3 class="font-weight-bolder mb-3 pb-3" style="letter-spacing: 1px;" id="welcome">Bienvenido!</h3>
             <p class="mb-3">Ingresa los datos asociados a tu cuenta para acceder</p>
@@ -71,14 +71,17 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             </div>
             <p>¿No tienes una cuenta? <a href="#!" id="registroUsu">Registrate aqui</a></p>
 
-          </form>
+            <div class="mt-custom">
+           <?php include_once __DIR__ . '/footer.php'; ?>
+          </div>
 
+          </form>
         </div>
       </div>
     </div>
 
       </div>
-      <div class="col-sm-6 px-0 d-none d-sm-block">
+      <div class="col-sm-6 px-0 d-none d-sm-block vh-100">
       <img src="./assets/img/imagen_Login.jpg" alt="Login image" class="w-100 vh-100" style="object-fit: cover; object-position: left;">
       </div>
     </div>

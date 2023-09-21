@@ -1,8 +1,8 @@
-<div class="card-footer text-center pt-0 px-lg-2 px-1">
+<link id="pagestyle" href="./assets/css/personalizacion.css" rel="stylesheet" />
+<div class="text-center pt-0 px-lg-2 px-1" id="footer">
   <p class="mb-4 text-sm mx-auto">
     Software creado por
-    <a href="javascript:;" class="text-info text-gradient font-weight-bold"
-      >Passive Voice Pioners</a>
-    <a>© Todos los derechos reservados</a>
+    <a>Passive Voice Pioners</a><br>
+    <a>© Todos los derechos reservados, 2023</a>
   </p>
 </div>

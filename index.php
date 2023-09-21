@@ -3,9 +3,9 @@
 =========================================================
                         LOG IN
 Autores
--Desarrollador Backend: Brian David Peralta Arriaga
--Desarrolladores Frontend: Farid Hussein Garcia San Luis y William Ismael Mendez Chavez
--Desarrollo de Proyectos: Oscar Azahel Hernandez Angeles y Perla Ximena Irineo Hernandez
+-Desarrolladores: 
+Garcia San Luis Farid Hussein
+Salas Perez Daniel Ernesto
 =========================================================
 -->
 
